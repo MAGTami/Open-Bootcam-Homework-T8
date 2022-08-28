@@ -1,7 +1,3 @@
-# Open-Bootcam-Homework-T8
-Homework for 8 Theme privacy, abstraction, encapsulation
-
-Example program in Java script:
 
 public class Main {
 
